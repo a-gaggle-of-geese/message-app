@@ -3,7 +3,7 @@
 ### Members: Miranda Lu, Michael Dulin, Zachariah Jeter
 
 ### Problem Domain
-For our Group Project, We decided to build a messaging app for "students" that would allow you to send and leave messages to "instructors". The "room" in this app is their class, and the instructor can access their messages by the class and student name.
+For our Group Project, We decided to build a messaging app for "students" that would allow you to send and leave messages to "instructors". The "room" in this app is their class (such as Biology, English, etc.), and the instructor can access their messages by the class and student name.
 
 The only person actively listening is the student, the instructor never listens on the port so they only have access to the queue.
 
