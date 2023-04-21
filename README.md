@@ -19,6 +19,14 @@ The only person actively listening is the student, the instructor never listens 
 
 N/A
 
+#### Installed Dependencies 
+
+- chance
+- socket.io
+- socket.io -cli
+- jest
+
+
 #### How to initialize/run your application (where applicable)
 
 - e.g. `npm start`
